@@ -10,7 +10,7 @@ def get_datetime() -> str:
 
 agent = Agent(
     name="agent",
-    model="openai/gpt-5.2",
+    model="openai/gpt-5.3",
     tools=[get_datetime],
 )
 

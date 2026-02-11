@@ -1,0 +1,46 @@
+# Claude
+.claude/
+CLAUDE.md
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+build/
+wheels/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+_version.py
+.venv/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+
+# OS
+.DS_Store
